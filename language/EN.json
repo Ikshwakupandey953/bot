@@ -27,7 +27,7 @@
             "NEED_PLUGIN": "```Please enter a Plugin! Example: .plugin __test```",
             "NOT_FOUND_PLUGIN": "```Maybe you have installed such a plugin, or maybe not. But it sure isn't right now.```",
             "DELETED": "*✅ Module successfully deleted!*",
-            "WARN": "Get plugins only from t.me/remasterplugin channel."
+            "WARN": "Get plugins only from my master"
         },
         "admin": {
             "BAN_DESC": "Ban someone in the group. Reply to message or tag a person to use command.",
@@ -81,7 +81,7 @@
             "MUST_TEXT": "```Please reply to any message```"
         },
         "heroku": {
-            "RESTART_DESC": "Restart Julie",
+            "RESTART_DESC": "Restart Gideon",
             "RESTART_MSG": "```Restarting...```",
             "SHUTDOWN_DESC": "Shutdown Julie",
             "SHUTDOWN_MSG": "```Shutting down ⛔```",
@@ -180,7 +180,7 @@
         },
         "scrapers": {
             "TRANSLATE_DESC": "It translates with Google Translate. You must reply any message.",
-            "TRANSLATE_USAGE": ".trt tr it (From Turkish to Italian)",
+            "TRANSLATE_USAGE": ".trt en it (From English to Italian)",
             "NEED_REPLY": "```Please reply to any message!```",
             "LANG": "Language",
             "SING_DESC": "It sings song that you have written",
